@@ -1,16 +1,29 @@
-## Hi there 👋
+ ## Hi there 👋, I'm Poonam!
 
-<!--
-**Poonam-D07/Poonam-D07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Java Developer  
+💻 Passionate about building scalable backend applications  
+🌱 Currently learning Spring Boot, Data Structures & Algorithms  
+👯 Looking to collaborate on open source Java projects  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/poonam-devi-274843226)  
+😄 Pronouns: She/Her  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Skills
+
+- **Languages:** Java, SQL, JDBC, Servlet, HTML, CSS, JavaScript (Basics), React 
+- **Frameworks:** Spring Boot (Learning)  
+- **Tools:** Git, GitHub, Eclipse IDEA, VS Code  
+
+---
+
+### 📈 GitHub Stats
+
+![Poonam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poonam-D07&show_icons=true&theme=radical)
+
+---
+
+> "The journey of a thousand miles begins with a single step." – Lao Tzu
+
+
+ 
