@@ -2,7 +2,7 @@
 
 🚀 Aspiring Full Stack Java Developer  
 💻 Passionate about building scalable backend applications  
-🌱 Currently learning Spring Boot, Data Structures & Algorithms  
+🌱 Currently learning Spring Boot, React.js, Tailwind CSS, Data Structures & Algorithms  
 👯 Looking to collaborate on open source Java projects  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/poonam-devi-274843226)  
 😄 Pronouns: She/Her  
